@@ -19,7 +19,9 @@
             </choice>
         </element>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="cost" max_length="20" name="u_cost" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Import Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Import Date/Time" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
         <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="legal" label="Request type" mandatory="true" max_length="40" name="u_request_type" type="string">
             <choice>
