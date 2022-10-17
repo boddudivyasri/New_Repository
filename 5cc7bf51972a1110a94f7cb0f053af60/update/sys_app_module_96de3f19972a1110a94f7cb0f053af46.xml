@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Needit">28a8bb1597661110a94f7cb0f053afdc</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_892775_needit_needit">list=list1^EQ<item display_value="list1" endquery="false" field="list" goto="false" newquery="false" operator="=" or="false" value="list1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>module</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Open</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_892775_needit_needit</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_892775_needit.needit_application_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 14:20:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>96de3f19972a1110a94f7cb0f053af46</sys_id>
+        <sys_name>Open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit" source="x_892775_needit">5cc7bf51972a1110a94f7cb0f053af60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">5cc7bf51972a1110a94f7cb0f053af60</sys_scope>
+        <sys_update_name>sys_app_module_96de3f19972a1110a94f7cb0f053af46</sys_update_name>
+        <timeline_page/>
+        <title>Open</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
